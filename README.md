@@ -19,7 +19,31 @@
 - Botão flutuante no canto direito inferior (pode ser alterado de posição pelo usuário) para contato via chat ao vivo
 - Notificação ao carregar a página com número de usuários que visualizaram o produto
 
-<code><img height="550" src="screenshot.png"></code>
+\*_Projeto ainda sem responsividade._
+
+## Resultado
+
+<code><img height="400" src="screenshot.png"></code>
+<code><img height="400" src="screenshot1.png"></code>
+
+## Conclusões sobre o projeto
+
+O Quasar é uma ferramenta incrível de desenvolvimento híbrido e tem uma curva de aprendizado muito pequena, projeto bem rápido, apesar de ser meu primeiro contato com a ferramenta foi muito fluido o desenvolvimento e sem dificuldades maiores.
+
+Pontos que eu destaco sobre o Quasar Framework:
+
+1. Ótima documentação
+2. Curva de aprendizado muito pequena
+3. Performance excelente
+4. Estilização com classes parecido com o Bootstrap
+5. Coleção extensa de componentes e plugins que suprem praticamente todas as necessidades do front-end
+6. Um código e consigo criar aplicações web, mobile, desktop e até extensão pra navegador, é sensacional
+7. É Vue 💚
+
+Em breve trago mais projetos com o Quasar aqui pro meu GitHub.
+
+
+# Instalação
 
 ## Install the dependencies
 
