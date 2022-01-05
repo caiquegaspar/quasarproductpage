@@ -23,8 +23,10 @@
 
 ## Resultado
 
-<code><img height="400" src="screenshot.png"></code>
-<code><img height="400" src="screenshot1.png"></code>
+**Acesse aqui [a demo do projeto](http://vue-wordpress-demo.bshiluk.com)**
+
+<code><img height="350" src="screenshot.png"></code>
+<code><img height="350" src="screenshot1.png"></code>
 
 ## Conclusões sobre o projeto
 
@@ -41,7 +43,6 @@ Pontos que eu destaco sobre o Quasar Framework:
 7. É Vue 💚
 
 Em breve trago mais projetos com o Quasar aqui pro meu GitHub.
-
 
 # Instalação
 
