@@ -23,7 +23,7 @@
 
 ## Resultado
 
-**Acesse aqui [a demo do projeto](http://vue-wordpress-demo.bshiluk.com)**
+**Acesse aqui [uma demo do projeto](https://quasarshop.netlify.app/)**
 
 <code><img height="350" src="screenshot.png"></code>
 <code><img height="350" src="screenshot1.png"></code>
