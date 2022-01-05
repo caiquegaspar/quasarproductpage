@@ -1,6 +1,11 @@
-# Quasar App (quasarproductpage)
+# Quasar Shop
 
-A Quasar Framework app
+> Teste no framework Quasar com o layout de uma página de produto
+
+### **Página de produto com:**
+- dd
+
+<code><img height="550" src="screenshot.png"></code>
 
 ## Install the dependencies
 ```bash
