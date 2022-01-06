@@ -34,7 +34,7 @@ O Quasar é uma ferramenta incrível de desenvolvimento híbrido e tem uma curva
 
 Pontos que eu destaco sobre o Quasar Framework:
 
-1. Ótima documentação
+1. Uma ótima documentação
 2. Curva de aprendizado muito pequena
 3. Performance excelente
 4. Estilização com classes parecido com o Bootstrap
